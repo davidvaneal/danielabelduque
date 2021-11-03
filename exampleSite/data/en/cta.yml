@@ -1,0 +1,12 @@
+---
+cta:
+  enable: true
+  bg_image: "/images/birds.jpg"
+  bg_image_webp: ''
+  title: Educación ambiental
+  content: Trabajamos con el fin de aportar en el desarrollo de las personas y su
+    relación con la naturaleza
+  button:
+    enable: true
+    label: Únete
+    link: "#contact"

@@ -1,0 +1,19 @@
+---
+contact:
+  enable: true
+  title: Contáctame
+  subtitle: ''
+  content: ''
+  contact_list:
+  - icon: ti-mobile
+    info: 'Phone: +57-312-763-6065'
+  - icon: ti-email
+    info: 'Email: danielabelduque@gmail.com'
+  contact_form:
+    enable: true
+    form_action: "#"
+    name: Nombre
+    email: Email
+    subject: Asunto
+    message: Mensaje
+    submit: Enviar

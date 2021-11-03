@@ -1,0 +1,16 @@
+---
+about:
+  enable: true
+  title: Acerca de mi
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Licenciada en Español y Literatura
+    content: Egresada de la Universidad del Quindío, que trabaja en pro de la motivación
+      de la lectura en los niños
+  - icon: ti-heart
+    title: Amante de las aves
+    content: Un día observé un ave y me enamoré, desde ello, aprendo y enseño cada
+      día más sobre el maravilloso mundo de las aves
+  - icon: ti-camera
+    title: Fotógrafa
+    content: 'Plasmo los más maravillosos momentos para que perduren y sean compartidos '

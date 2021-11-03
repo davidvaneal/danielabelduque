@@ -1,0 +1,16 @@
+---
+pricing:
+  enable: true
+  title: Nuestros planes
+  pricing_table:
+  - name: Siembra de árboles
+    price: "$70000"
+    unit: ''
+    services:
+    - 1 Árbol pajarero nativo
+    - 1 Camiseta de Bio Onda
+    - Snacks
+    - Registro fotográfico
+    button:
+      label: Pregunta más
+      link: https://api.whatsapp.com/send?phone=573127636065

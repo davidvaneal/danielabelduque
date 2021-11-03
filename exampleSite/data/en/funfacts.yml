@@ -1,0 +1,18 @@
+---
+funfacts:
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  counter_item:
+  - title: Clientes felices
+    icon: ti-face-smile
+    count: "320"
+  - title: Proyectos completados
+    icon: ti-archive
+    count: "350"
+  - title: Me gusta
+    icon: ti-thumb-up
+    count: "158"
+  - title: Regalos
+    icon: ti-gift
+    count: "250"

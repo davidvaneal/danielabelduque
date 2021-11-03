@@ -1,0 +1,12 @@
+---
+banner:
+  enable: true
+  bg_image_webp: ''
+  bg_image: "/images/pic.jpg"
+  icon: ''
+  title: Daniela Belduque
+  content: Profe amante de las aves
+  button:
+    enable: true
+    label: Conóceme
+    link: "#about"

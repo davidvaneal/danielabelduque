@@ -1,0 +1,17 @@
+---
+service:
+  enable: true
+  title: Nuestros servicios
+  service_item:
+  - name: Avistamiento de aves
+    icon: ''
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Siembra de árboles
+    icon: ''
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Educación ambiental
+    icon: ''
+    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
+      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
